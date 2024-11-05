@@ -18,7 +18,7 @@ fieldset {
     background-image: url('resource/image1.png');
     background-size: cover;
     background-position: center;
-    filter: blur(8px); 
+    filter: blur(3px); 
     z-index: -1; 
 }
 .form-h2 {
@@ -27,4 +27,11 @@ fieldset {
     color: rgb(35, 16, 8);
     text-align: center;
     padding-top: 20%;
+}
+.form {
+    border: 2px solid #000; 
+    padding: 10px; 
+    margin: 20px; 
+    width: fit-content; 
+    background-color: #f9f9f9; 
 }

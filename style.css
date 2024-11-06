@@ -58,8 +58,8 @@ body {
     z-index: 1;
   }
   
-  .form-faculty, .form-type, .form-new {
-    line-height: 4;
+  .form-faculty, .form-type, .form-new ,.form-id,.form-group{
+    line-height: 3;
   }
   
   button[type="submit"] {

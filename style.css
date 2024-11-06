@@ -77,8 +77,11 @@ body {
   }
   
   @media (max-width: 768px) {
+    h2{
+        margin-bottom: 50px;
+    }
     .form {
-      width: 90%;
+      width: 100%;
     }
   }
   

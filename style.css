@@ -72,6 +72,9 @@ body {
     color: white;
     font-size: 13px;
   }
+  .required {
+    color: red;
+  }
   
   @media (max-width: 768px) {
     .form {
